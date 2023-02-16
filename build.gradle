@@ -7,8 +7,8 @@ plugins {
 
 sonarqube {
   properties {
-    property "sonar.projectKey", "CalidadG7-2022-2023_Aplication"
-    property "sonar.organization", "calidadg7-2022-2023"
+    property "sonar.projectKey", "AlessandroNuzziURJC_AndroidApp"
+    property "sonar.organization", "alessandronuzziurjc"
     property "sonar.host.url", "https://sonarcloud.io"
   }
 }
